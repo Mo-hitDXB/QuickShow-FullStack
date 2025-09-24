@@ -1,12 +1,61 @@
-# React + Vite
+# Movie Booking System Using MERN stack 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 About Me
+# Hi, I'm Mohit Harpalani! 👋
+I have been learning MERN-fullstack 
 
-Currently, two official plugins are available:
+I have created this Movie Booking System using MERN stack and have used some other tools to make this secure platform for the movie lovers who wwant seamless and risk free booking platform so that they can enjoy the movie and experience our easy and quick to use platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# QuickShow – Movie Booking System Project Cover Page 
+![movie booking cover page](https://github.com/Mo-hitDXB/QuickShow-FullStack/blob/690b55ba316bfea9179b06805b0b524c4f6db2f6/client/movie%20booking%20system%20coverpage.png)
 
-## Expanding the ESLint configuration
+# QuickShow – Movie Booking System 🎥
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎥 QuickShow - Movie Booking System
+
+QuickShow is a full-stack MERN movie booking application that allows users to watch movies, reserve seats and pay all online with ease. \ I have used these tools  Clerk, Stripe, TMDB, Brevo and MongoDB Atlas for a seamless up to date experience.
+
+
+# ✨ Functionality
+
+# Client Side User Functionality
+
+🔐 Authentication - User sign in/sign up with Clerk.
+
+🎞 Movie Browsing - Access to info, trailers and ratings of movies through the TMDB API.
+
+🎟 Tickets/Seat Booking - Ability to select show times and book seats in real time.
+
+💳 Payment Processing - Payment through Stripe Checkout.
+
+📧 Email Bookings - Booking confirmations and updates sent through email via Brevo.
+
+# Admin Functionality
+
+➕ Ability to create/edit/delete movies and showtimes.
+
+📊 Ability to see who booked what and payment.
+
+🔒 Ability to set user roles and permissions.
+
+# FrontEnd and BackEnd Tech used 
+| Layer              | Technology                                 |
+| ------------------ | ------------------------------------------ |
+| **Frontend**       | React.js, Vite                             |
+| **Backend**        | Node.js, Express.js                        |
+| **Database**       | MongoDB Atlas                              |
+| **Authentication** | Clerk                                      |
+| **Payments**       | Stripe                                     |
+| **Movie Data**     | TMDB API                                   |
+| **Email Service**  | Brevo                                      |
+| **Workflows**      | Inngest                                    |
+| **Deployment**     | Vercel (Frontend), Cloud Hosting (Backend) |
+
+
+## Support
+
+For support, email mohit.harplani.dev@gmail.com or DM my Insta Handle (itz_mohitkh)
+
+## Feedback
+
+If you have any feedback, please reach out to us at mohit.harplani.dev@gmail.com
